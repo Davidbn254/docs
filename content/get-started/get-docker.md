@@ -28,8 +28,8 @@ section and choose the best installation path for you.
 > **Docker Desktop terms**
 >
 > Commercial use of Docker Desktop in larger enterprises (more than 250
-> employees OR more than $10 million USD in annual revenue) requires a [paid
-> subscription](https://www.docker.com/pricing/).
+> employees OR more than $10 million USD in annual revenue) 
+
 
 <div class="not-prose">
 {{< card
