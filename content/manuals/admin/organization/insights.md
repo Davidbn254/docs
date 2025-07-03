@@ -1,4 +1,4 @@
----
+-n8n--
 description: Gain insights about your organization's users and their Docker usage.
 keywords: organization, insights
 title: Insights
